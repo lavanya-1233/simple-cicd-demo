@@ -1,7 +1,8 @@
+<!Doctype html>
 <html>
 <head>
 Hello world
-<title>my first project by using cicd tools</title>
+<title> my first project by using cicd tools</title>
 </head>
 <body>
 <h1>Hello World</h1>
